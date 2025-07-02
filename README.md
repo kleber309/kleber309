@@ -7,5 +7,7 @@
 -Ele fez 8 anos dia 22 de agosto
 -Tenho um pai excelente
 -Ele tem 41 anos
-q -E tenho uma maẽ maravilhosa
-  
+-E tenho uma maẽ maravilhosa
+-E agora estou n aaula de pensamento computacional
+-Aprendendo mecher em computador e comando 
+  -Estou com o meu amigo joão
