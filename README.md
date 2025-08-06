@@ -1,7 +1,7 @@
 - **Meu nome e kleber
 - Tenho 15 anos 
 -Vou fazer dia 16 de novenbro 
--Tenho uma moto 160 fan 
+-Tinha uma moto 160 fan 
 -Estudo no colegio civico militar 
 -Tenho um irmão de 7 anos 
 -Ele fez 8 anos dia 22 de agosto
@@ -10,4 +10,8 @@
 -E tenho uma maẽ maravilhosa
 -E agora estou n aaula de pensamento computacional
 -Aprendendo mecher em computador e comando 
-  -Estou com o meu amigo joão
+-Estou com o meu amigo joão
+-Agora tenho um celta
+-E tenho uma namorada 
+
+
